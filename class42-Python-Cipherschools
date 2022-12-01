@@ -1,0 +1,10 @@
+age = input("enter yoyr age : ")
+age = int(age)
+if age >= 14:
+    print("line a")
+    print("you are above 14")
+Footer
+© 2022 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
